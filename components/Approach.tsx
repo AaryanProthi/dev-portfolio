@@ -14,7 +14,7 @@ const Approach = () => {
         <Card
           title="Planning and Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          description="DESCRIBE PHASE 1"
+          description="In this stage, I meticulously plan the project, defining goals, audience, and key features. I conduct research and create a roadmap to ensure clarity and alignment with project objectives."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -22,9 +22,11 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development and Progress Update"
+          title="Development and Progress"
           icon={<AceternityIcon order="Phase 2" />}
-          description="DESCRIBE PHASE 2"
+          description="This stage involves active development, where I translate plans into tangible outcomes. I iterate, test, and refine the project, ensuring it meets design specifications and functional requirements.
+
+"
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -37,9 +39,9 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development and Launch"
+          title="Deployment and Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          description="DESCRIBE PHASE 3"
+          description="Here, I prepare the project for deployment, ensuring seamless integration and performance optimization. I manage the deployment process and monitor the launch, ensuring a successful transition from development to live environment."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -94,7 +96,10 @@ const Card = ({
         <h2 className="dark:text-white opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center text-3xl">
           {title}
         </h2>
-        <h2 className="text-sm dark:text-white opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center" style={{color: "#e4ecff"}}>
+        <h2
+          className="text-sm dark:text-white opacity-0 group-hover/canvas-card:opacity-100 relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white group-hover/canvas-card:-translate-y-2 transition duration-200 text-center"
+          style={{ color: "#e4ecff" }}
+        >
           {description}
         </h2>
       </div>
