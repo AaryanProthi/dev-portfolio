@@ -115,6 +115,12 @@ export const testimonials = [
     name: "Jayanth Induri",
     title: "Software Engineer, Microsoft",
   },
+  {
+    quote:
+      "I had the privilege of mentoring Aaryan during his time at our company, where he made significant contributions to our projects with his technical skills and proactive approach. Aaryan worked with a variety of technologies, including Python, ReactJS, Puppeteer, and ElectronJS, and consistently delivered exceptional results. His dedication and problem-solving skills made him an invaluable member of our team.",
+    name: "Shrashti Singhal",
+    title: "Principal Data Scientist, Culinda",
+  },
 ];
 
 export const companies = [
