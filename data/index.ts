@@ -153,15 +153,18 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    name: "GitHub",
     link: "https://github.com/AaryanProthi",
   },
   {
     id: 2,
     img: "/link.svg",
+    name: "LinkedIn",
     link: "https://www.linkedin.com/in/aaryan-prothi-55603122b/",
   },
   { id: 3,
     img: "/insta.svg",
+    name: "Instagram",
     link: "https://www.instagram.com/aaryanpro_2647/",
    },
 ];
