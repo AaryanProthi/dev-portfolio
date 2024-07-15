@@ -1,6 +1,6 @@
 # Next.js Portfolio App
 
-Link - https://aaryanprothi-m4gnv7nj1-aaryan-prothis-projects.vercel.app/
+Link - https://aaryanprothi.vercel.app
 
 This is a personal portfolio application built using Next.js. It showcases recent projects, testimonials, and contact information. The app is responsive and uses the Aceternity UI components and Tailwind CSS for styling. It also integrates Sentry for bug tracking, allowing users to report bugs directly through the interface.
 
