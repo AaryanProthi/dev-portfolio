@@ -94,7 +94,15 @@ export const projects = [
   },
   {
     id: 3,
-    title: "DineEase - A Restaurant MAnagement System",
+    title: "Convertify - A File Format Converter",
+    des: "Experience fast, serverless file format conversion with Convertify, a Next.js project powered by ffmpeg and Shadcn UI. Perform efficient conversions directly on the client side, streamlining your file management with ease.",
+    img: "/fc.png",
+    iconLists: ["/next.svg", "/tail.svg", "/shad.png", "/ffmpeg.png"],
+    link: "https://github.com/AaryanProthi/file_converter",
+  },
+  {
+    id: 4,
+    title: "DineEase - A Restaurant Management System",
     des: "Manage your restaurant effortlessly with this Python GUI project. Store and handle employee and customer data, menu items, orders, and billing—all powered by MySQL Connector for database connectivity and PySimpleGUI for a user-friendly interface.",
     img: "/p3.png",
     iconLists: ["/py.svg", "/mysql.svg"],
