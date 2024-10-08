@@ -125,7 +125,7 @@ export const testimonials = [
   },
   {
     quote:
-      "I had the privilege of mentoring Aaryan during his time at our company, where he made significant contributions to our projects with his technical skills and proactive approach. Aaryan worked with a variety of technologies, including Python, ReactJS, Puppeteer, and ElectronJS, and consistently delivered exceptional results. His dedication and problem-solving skills made him an invaluable member of our team.",
+      "I had the pleasure of working with Aaryan during his internship as a full-stack developer, and he quickly impressed with his ability to grasp new technologies and apply them effectively. Whether it was using Python, React, Node.js, or testing cutting-edge tools like LLMs, he learned and delivered with remarkable speed. Aaryan worked across various tech stacks, including front-end development with React and Electron, backend systems, and website testing, always demonstrating versatility, diligence, and enthusiasm. He is one of the quickest learners I've encountered, and his adaptability makes him an asset to any team.",
     name: "Shrashti Singhal",
     title: "Principal Data Scientist, Culinda",
   },
